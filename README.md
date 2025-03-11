@@ -5,7 +5,8 @@
 💡 Passionné par l'apprentissage continu et la technologie
 
 1
-    ```" .vimrc para a Escola 42 🚀                                                                    
+    ```vim
+    " .vimrc para a Escola 42 🚀                                                                    
   1 " Configurações para seguir a Norminette
   2 
   3 " 1️⃣ Usa tabulação real em vez de espaços
