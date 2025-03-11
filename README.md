@@ -5,7 +5,7 @@
 💡 Passionné par l'apprentissage continu et la technologie
 
 1
-    " .vimrc para a Escola 42 🚀                                                                    
+    ```" .vimrc para a Escola 42 🚀                                                                    
   1 " Configurações para seguir a Norminette
   2 
   3 " 1️⃣ Usa tabulação real em vez de espaços
@@ -42,4 +42,4 @@
  34 
  35 "Colocar login e email no HEADER42
  36 let g:user42 = "dleite-b"
- 37 let g:mail42 = "dleite-b@student.42lausanne.ch"
+ 37 let g:mail42 = "dleite-b@student.42lausanne.ch"```
