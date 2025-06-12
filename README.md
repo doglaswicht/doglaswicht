@@ -19,3 +19,11 @@ Deeply engaged in the world of technology, I'm progressing through a hands-on an
 [![](https://visitcount.itsvg.in/api?id=doglaswicht&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doglaswicht/doglaswicht/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doglaswicht/doglaswicht/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/doglaswicht/doglaswicht/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
